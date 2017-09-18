@@ -1,0 +1,21 @@
+#foot {
+	background: #2d2d2d;
+}
+
+#foot i {
+	color: #bdbdbd;
+	font-size: 30px;
+	padding: 10px;
+}
+
+#foot i:hover {
+	color: #ff2828;
+}
+
+
+#foot p {
+	color: #bdbdbd;
+	font-size: 16px;
+	vertical-align: super;
+	padding: 0;
+}
